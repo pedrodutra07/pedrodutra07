@@ -1,4 +1,7 @@
-<h1 align="center">Olá meu nome é Pedro Henrique Alves Silverio Dutra</h1>
+<h1 align="center">Olá 👋, Eu sou o Pedro Henrique Alves Silverio Dutra</h1>
+<h2>| Estudante de Análise e Desenvolvimento de Sistemas | Em busca de Oportunidades Profissionais</h2>
+
+  
 <p>Atualmente, estou em uma fase de intensa dedicação e desenvolvimento profissional na área de programação. Com um grande interesse em tecnologias e um desejo constante de aprendizado, tenho focado meus estudos em linguagens como Java e JavaScript, além de explorar outras tecnologias e frameworks relevantes.</p>
 
 - 🌱 Aprendendo  **  Java e OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB**
