@@ -9,9 +9,9 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pedro-henrique-b20565209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pedro-henrique-b20565209/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100003054311418&locale=pt_br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100003054311418&locale=pt_br" height="30" width="40" /></a>
-<a href="https://instagram.com/@pedriinho.07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@pedriinho.07" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pedro-henrique-b20565209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pedro-henrique-b20565209/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100003054311418&locale=pt_br" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100003054311418&locale=pt_br" height="30" width="40" /></a>
+<a href="https://instagram.com/pedriinho.07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@pedriinho.07" height="30" width="40" /></a>
 <a href="https://discord.gg/pedroalves0722 #6071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pedroalves0722 #6071" height="30" width="40" /></a>
 </p>
 
