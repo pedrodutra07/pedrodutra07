@@ -4,7 +4,7 @@
 - 🌱 Aprendendo  **  Java e OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB**
 
 - 📫 Meu e-mail é : **henrique.pedro0722@hotmail.com** <br>
-  Telefone: [5531995330770](5531995330770)
+  :telephone: Telefone: [5531995330770](5531995330770)
 
 
 
