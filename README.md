@@ -3,7 +3,8 @@
 
 - 🌱 Aprendendo  **  Java e OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB**
 
-- 📫 Meu e-mail é **henrique.pedro0722@hotmail.com**
+- 📫 Meu e-mail é **henrique.pedro0722@hotmail.com** <br>
+
   Telefone [5531995330770](5531995330770)
 
 
@@ -16,5 +17,5 @@
 <a href="https://discord.gg/pedroalves0722 #6071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="pedroalves0722 #6071" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">ferramentas:</h3>
+<h3 align="left">Ferramentas conhecidas :</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
