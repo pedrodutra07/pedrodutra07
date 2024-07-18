@@ -1,7 +1,7 @@
 <h1 align="center">Olá meu nome é Pedro Henrique Alves Silverio Dutra</h1>
 <p>Atualmente, estou em uma fase de intensa dedicação e desenvolvimento profissional na área de programação. Com um grande interesse em tecnologias e um desejo constante de aprendizado, tenho focado meus estudos em linguagens como Java e JavaScript, além de explorar outras tecnologias e frameworks relevantes.</p>
 
-- 🌱 Atualmente estou aprendendo **Java e OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB**
+- 🌱 Aprendendo  **  Java e OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB**
 
 - Telefone [5531995330770](5531995330770)
 
